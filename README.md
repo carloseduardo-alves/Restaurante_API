@@ -38,7 +38,7 @@ Para rodar este projeto localmente, você precisará ter as seguintes ferramenta
 - Busca de um restaurante específico por ID.
 - Criação de um restaurante, com seus pratos.
 - Atualização/modificação de um restaurante.
-- Deleção de um restaurante.
+- Exclusão de um restaurante.
 
 ## Como usar
 
